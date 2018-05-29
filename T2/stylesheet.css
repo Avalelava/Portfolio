@@ -14,7 +14,7 @@ body {
   position:absolute;
 }
 .overlay {
-  background: url("frog_only.gif") no-repeat center center;
+  background: url("frogonly.gif") no-repeat center center;
   height: 100%;	
   width: 100%;
   position: absolute;
