@@ -1,0 +1,4 @@
+img {
+    padding: 472px 396px 60px 140px;
+    background:background.jpg no-repeat;
+}
