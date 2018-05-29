@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+}
+body {
+  overflow:hidden;
+}
+.image {
+  background: url("background.jpg") no-repeat center center;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  opacity: 1;
+  position:absolute;
+}
+.overlay {
+  background: url("frog_only.gif") no-repeat center center;
+  height: 100%;	
+  width: 100%;
+  position: absolute;
+}
+
